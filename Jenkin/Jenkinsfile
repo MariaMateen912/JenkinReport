@@ -21,3 +21,6 @@ pipeline{
         }
     }
 }
+
+npm install -g junit-viewer
+sudo apt install maven
